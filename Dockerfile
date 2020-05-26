@@ -1,5 +1,10 @@
 FROM groovy:2.4
 
+ARG VCS_REF
+
+LABEL org.label-schema.vcs-ref=$VCS_REF \
+      org.label-schema.vcs-url="https://github.com/rossf7/label-schema-automated-build.git"
+
 USER root
 
 ENV CODENARC_VERSION=1.4
