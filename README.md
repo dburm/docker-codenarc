@@ -1,3 +1,7 @@
+[![](https://images.microbadger.com/badges/version/sergeygals/docker-codenarc.svg)](https://microbadger.com/images/sergeygals/docker-codenarc "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/sergeygals/docker-codenarc.svg)](https://microbadger.com/images/sergeygals/docker-codenarc "Get your own image badge on microbadger.com")
+
+
 # docker-codenarc
 CodeNarc analyzes Groovy code for defects, bad practices, inconsistencies, style
 issues and more.
